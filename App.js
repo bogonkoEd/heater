@@ -8,12 +8,12 @@ import EveningEx from './screens/EveningEx'
 
 const App = () => {
   return (
-    // <Welcome />
+    <Welcome />
     // <Mealplan />
     // <Drawer />
     // <Workouts />
     // <MorningEx />
-    <EveningEx />
+    // <EveningEx />
   )
 }
 
