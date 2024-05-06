@@ -14,7 +14,6 @@ const Welcome= () => {
     : "";
 
     console.log("SELECTED DATE:", selectedDate)
-    
   return (
     <View style={styles.appContainer}>
       <View style={styles.titleContainer}>
